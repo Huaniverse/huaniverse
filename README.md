@@ -43,16 +43,3 @@ I am an IT Student and aspiring Software Engineer with a deep passion for buildi
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
 </div>
-
-<br />
-
-### Top Repositories
-
-<a href="https://github.com/huaniverse/CTU-Timetable-CLI-Tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaniverse&repo=CTU-Timetable-CLI-Tool&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" />
-</a>
-<a href="https://github.com/huaniverse/JS_Basic_ITCLUB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaniverse&repo=JS_Basic_ITCLUB&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" />
-</a>
-
-</div>
